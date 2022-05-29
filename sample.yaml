@@ -1,0 +1,16 @@
+title: "Sample questions"
+questions: {
+  "What is today's date?": [
+    "Today",
+  ],
+  "What is C++?": [
+    "It is a programming language made by ",
+    "Bjarne Stroustrup",
+  ],
+  "Testfornewlines": [
+    "- this is a very long line that i want to be multiline\n  ",
+    "but also the right space\n",
+    "- this is a second point\n",
+    "- this is the third point"
+  ]
+}
