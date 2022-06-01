@@ -1,6 +1,6 @@
 # quizzer
 
-A quizzer application that accepts a YAML file and quizzes you all the questions within.
+Extremely simple quizzer application that accepts a YAML file and quizzes you all the questions within.
 
 To run it: `./quiz.py sample.yaml`
 
